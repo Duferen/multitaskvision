@@ -4,7 +4,7 @@ Alex Kendall, Yarin Gal and Roberto Cipolla.
 Spotlight Presentation @ CVPR, 2018.
 [(.pdf)](https://arxiv.org/abs/1705.07115)
 
-**CODE WILL BE RELEASED BEFORE CVPR 2018**
+**CODE WILL BE RELEASED SOON**
 
 If this work is useful to your research, please cite:
 ```
